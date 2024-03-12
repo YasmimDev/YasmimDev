@@ -3,7 +3,7 @@
  🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="480" src="https://giphy.com/gifs/m-studio-ghibli-hayao-miyazaki-yypfH0eh8s9bO">
+  <img width="480" src="[https://giphy.com/gifs/m-studio-ghibli-hayao-miyazaki-yypfH0eh8s9bO](https://giphy.com/gifs/m-studio-ghibli-hayao-miyazaki-yypfH0eh8s9bO)">
 </p>
 <p align="center"><samp>
 Check out my repos ⬇️  
