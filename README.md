@@ -3,7 +3,7 @@
  🐍 ☁️ </samp></h4>
 
 <<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://media.giphy.com/media/E549VaHiMjknS/giphy.gif">
 </p>
 
 <p align="center"><samp>
